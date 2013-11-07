@@ -1,0 +1,70 @@
+// Global Rootbeer/Foundation Settings
+@import "settings";
+
+// Comment out this import if you don't want to use normalize
+@import "normalize";
+
+// Comment out this import if you are customizing you imports below
+@import "rootbeer";
+
+// Import specific parts of Foundation by commenting the import "foundation"
+// and uncommenting what you want below. You must uncomment the following if customizing
+
+// Foundation
+// @import "rootbeer/foundation/global" // *always required
+// @import "rootbeer/foundation/visibility";
+
+// Grid
+// @import "rootbeer/foundation/grid";
+// @import "foundation/components/grid-5"; // add breakpoint (min-width: 640px and 1024px)
+// @import "rootbeer/foundation/block-grid";
+
+// Navigation
+// @import "rootbeer/foundation/pagination";
+// @import "rootbeer/foundation/side-nav";
+// @import "rootbeer/foundation/sub-nav";
+// @import "rootbeer/foundation/top-bar"; // *requires grid
+// @import "rootbeer/foundation/breadcrumbs";
+
+// Buttons
+// @import "rootbeer/foundation/buttons";
+// @import "rootbeer/foundation/button-groups"; // *requires buttons
+// @import "rootbeer/foundation/dropdown-buttons"; // *requires buttons
+// @import "rootbeer/foundation/split-buttons"; // *requires buttons
+
+// Forms
+// @import "rootbeer/foundation/forms"; // *requires buttons
+// @import "rootbeer/foundation/custom-forms"; // *requires forms
+// @import "rootbeer/foundation/switch";
+
+// Typgraphy
+// @import "rootbeer/foundation/type";
+// @import "rootbeer/foundation/inline-lists";
+// @import "rootbeer/foundation/labels";
+// @import "rootbeer/foundation/keystrokes";
+  
+// CSS Components
+// @import "rootbeer/foundation/alert-boxes";
+// @import "rootbeer/foundation/panels";
+// @import "rootbeer/foundation/pricing-tables";
+// @import "rootbeer/foundation/progress-bars";
+// @import "rootbeer/foundation/tables";
+// @import "rootbeer/foundation/thumbs";
+// @import "rootbeer/foundation/flex-video";
+
+// Javascript
+// @import "rootbeer/foundation/clearing";
+// @import "rootbeer/foundation/dropdown";
+// @import "rootbeer/foundation/joyride";
+// @import "rootbeer/foundation/magellan";
+// @import "rootbeer/foundation/orbit";
+// @import "rootbeer/foundation/reveal";
+// @import "rootbeer/foundation/section";
+// @import "rootbeer/foundation/tooltips";
+
+// Wordpress
+// @import "rootbeer/wordpress/header"; //*requires 
+// @import "rootbeer/wordpress/main";
+// @import "rootbeer/wordpress/sidebar";
+// @import "rootbeer/wordpress/searchbar";
+// @import "rootbeer/wordpress/footer";
